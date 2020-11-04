@@ -31,7 +31,12 @@
             logs we don't want to see.
         </p>
     </div>
-    <p><cite>Log Aggregation</cite> by SumoLogic.</p>
+    <p>
+        <cite>Log Aggregation</cite> by SumoLogic.
+    </p>
+    <p>
+        <cite>https://www.sumologic.com/glossary/log-aggregation/</cite>
+    </p>
 </main>
 <footer>
     <hr>

@@ -32,7 +32,12 @@
             to them in order to determine the best framework to choose.
         </p>
     </div>
-    <p><cite>Log Management Use Cases & The Benefits of Log Data</cite> by Jamie Morgan.</p>
+    <p>
+        <cite>Log Management Use Cases & The Benefits of Log Data</cite> by Jamie Morgan
+    </p>
+    <p>
+        <cite>https://www.missioncloud.com/blog/log-management-use-cases-the-benefits-of-log-data#:~:text=Application%20Troubleshooting,installation%20and%20run%2Dtime%20errors</cite>
+    </p>
 </main>
 <footer>
     <hr>

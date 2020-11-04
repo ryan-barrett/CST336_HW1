@@ -31,7 +31,12 @@
             <li>Finding not only the error message but locating the origin or root cause of errors</li>
         </ol>
     </div>
-    <p><cite>An introduction to logging for programmers</cite> by Stefanos Vardalos.</p>
+    <p>
+        <cite>An introduction to logging for programmers</cite> by Stefanos Vardalos.
+    </p>
+    <p>
+        <cite>https://www.freecodecamp.org/news/you-should-have-better-logging-now-fbab2f667fac/</cite>
+    </p>
 </main>
 <footer>
     <hr>

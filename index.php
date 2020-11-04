@@ -33,7 +33,12 @@
             how we got to the error in the first place.
         </p>
     </div>
-    <p><cite>An introduction to logging for programmers</cite> by Stefanos Vardalos.</p>
+    <p>
+        <cite>An introduction to logging for programmers</cite> by Stefanos Vardalos.
+    </p>
+    <p>
+        <cite>https://www.freecodecamp.org/news/you-should-have-better-logging-now-fbab2f667fac/</cite>
+    </p>
 </main>
 <footer>
     <hr>
