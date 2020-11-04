@@ -11,10 +11,10 @@
 </header>
 <hr>
 <nav>
-    <a href="index.html">Home</a>
-    <a href="aggregation.html">Aggregation</a>
-    <a href="benefits.html">Benefits</a>
-    <a id="current-page" href="strategies.html">Strategies</a>
+    <a href="index.php">Home</a>
+    <a href="aggregation.php">Aggregation</a>
+    <a href="benefits.php">Benefits</a>
+    <a id="current-page" href="strategies.php">Strategies</a>
 </nav>
 <main>
     <img id="app-logging" src="./img/app-logging.jpg" alt="Picture of a computer"/>

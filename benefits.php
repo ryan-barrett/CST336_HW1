@@ -11,10 +11,10 @@
 </header>
 <hr>
 <nav>
-    <a href="index.html">Home</a>
-    <a href="aggregation.html">Aggregation</a>
-    <a id="current-page" href="benefits.html">Benefits</a>
-    <a href="strategies.html">Strategies</a>
+    <a href="index.php">Home</a>
+    <a href="aggregation.php">Aggregation</a>
+    <a id="current-page" href="benefits.php">Benefits</a>
+    <a href="strategies.php">Strategies</a>
 </nav>
 <main>
     <img id="centralized-logging" src="./img/centralized.png" alt="Picture of a computer"/>
